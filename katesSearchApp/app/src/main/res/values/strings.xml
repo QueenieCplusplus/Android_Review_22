@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">katesSearchApp</string>
+    <string name="no_results">No Results</string>
+
+    <string-array name="zodiac_array">
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+    </string-array>
+</resources>
