@@ -9,3 +9,5 @@ SearchBar in Android Widget
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_22/main/output3.png)
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_22/main/output4.png)
+
+Ref: https://www.tutorialspoint.com/how-to-use-searchview-in-the-toolbar-in-kotlin
